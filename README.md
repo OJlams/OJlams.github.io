@@ -1,4 +1,4 @@
-# Portfolio
+# OJlams.github.io
 **THIS IS STILL IN WORKS. expect UPDATES OCCASIONALLY**
 
 
@@ -16,6 +16,6 @@ MARCH 9TH 2022
 
 
 
-**visit:** https://ojlams.github.io/
+**visit:** [https://ojlams.github.io/]
 
 *corrections would be very much appreciated*
