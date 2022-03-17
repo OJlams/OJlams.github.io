@@ -1,0 +1,187 @@
+/********************************* 
+My Code 
+*********************************/
+
+* {
+	text-decoration: none;
+}
+
+body {
+	background-color: #fff;
+	color: #999;
+	font-family: 'Open Sans', sans-serif;
+}
+
+a {
+	color: #6ab47b;
+}
+
+
+
+.calc-project {
+	width: 200px;
+	height: 200px;
+	border-radius: 10px;
+	background-image: url(../img/sc-img.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.view-button {
+	height: 15%;
+	width: 35%;
+	margin: 160px 0 0 68px;
+	border-radius: 20px;
+	border-width: 0;
+
+
+}
+
+.view-button:hover {
+	background-color: #011;
+}
+
+.view-button a {
+	font-weight: bold; 
+	color: #000;
+	display: block;
+}
+
+.sc {
+	color: #999;
+	font-size: 1em;
+	font-weight: bold;
+}
+
+.view-button a:hover {
+	color: #999;
+	transition: all 1s;
+
+}
+
+#me {
+	text-align: center;
+	margin: 0; 
+}
+
+#sec1 {
+ 	max-width: 940px;
+	margin: 0 auto;
+	padding: 0 5%; 
+}
+
+header {
+	float: left;
+	background: #6ab47b;
+	border-color: #599a68;
+	margin: 0 0 30px 0;
+	padding: 5px 0 0 0;
+	width: 100%;
+}
+
+h1, h2 {
+	color: #fff;
+}
+
+h1 {
+	font-family: 'Changa One', sans-serif;
+	font-size: 1.75em;
+	margin: 15px 0;
+	font-weight: bold;
+	line-height: 0.8em;
+}
+
+h2 {
+	font-size: 0.80em;
+	margin: -5px 0 0;
+	font-weight: normal;
+}
+
+h3 {
+	margin: 0 0 1em 0;
+}
+
+nav {
+	background: #599a68;
+	text-align: center;
+	padding: 10px 0;
+	margin: 20px 0 0;
+}
+
+nav a, nav a:visited {
+	color: #fff;
+}
+
+nav a.selected, nav a:hover {
+	color: #32673f;
+}
+
+nav a {
+	padding: 15px 10px;
+	font-weight: 800;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0 10px;
+	padding: 0;
+}
+
+nav li{
+	display: inline-block;
+}
+
+img {
+	max-width: 100%;
+}
+
+.profile-pic {
+	display: block;
+	max-width: 150px;
+	border-radius: 100%;
+	margin: 0 auto 30px;
+}
+
+
+.contact-info {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	font-size: 0.9em;
+}
+
+.contact-info a {
+	display: block;
+	min-height: 20px;
+	background-repeat: no-repeat;
+	background-size: 20px 20px;
+	padding: 0 0 0 30px;
+	margin: 0 0 10px;
+}
+
+.contact-info li.phone a {
+  background-image: url('../img/phone.png');
+}
+
+.contact-info li.mail a {
+  background-image: url('../img/mail.png');
+}
+
+.contact-info li.twitter a {
+  background-image: url('../img/twitter.png');
+}
+
+footer {
+	font-size: 0.75em;
+	clear: both;
+	text-align: center;
+	padding-top: 50px;
+	color: #ccc;
+}
+
+footer img.social-icon {
+	width: 20px;
+	height: 20px;
+	margin: 0 5px;
+}
